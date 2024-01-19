@@ -1,0 +1,9 @@
+
+.menu{
+   z-index: 0;
+  transition:   0.8s ease;
+}
+
+.nav{
+  z-index: 1;
+}
